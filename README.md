@@ -7,6 +7,8 @@ I'm an all-around technology enthusiast web developer interested in leading team
 
 Currently, I'm living in Bogota and I'm open to collaborate in any project.
 
+### Spotify Playing 🎧
+[<img src="https://spotify-now-playing-alpha.vercel.app/api/spotify-playing" alt="Alfredo Romero Spotify Playing" width="350" />](https://open.spotify.com/user/vyo3ocjo0n2a4x3ext1ooq58z)
 
 - 🔭 I’m currently working on a NextJS base website and Drupal 8 base theme!
 - 🌱 I’m currently learning everything 🤣
