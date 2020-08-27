@@ -1,7 +1,7 @@
 ## Hi! I'm Alfredo 
 ### (kurodaSensei is my programmer's nickname xD)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/KurodaSensei?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKurodaSensei&screen_name=KurodaSensei)
 
 I'm an all-around technology enthusiast web developer interested in leading teams and creating web applications that help other people grow or simply make an aspect of their lives easier.
 
