@@ -14,15 +14,12 @@ Currently, I'm living in Bogota and I'm open to collaborate in any project.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Karate & Video Games
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Alfredo Romero Spotify Playing" width="350" />](https://open.spotify.com/user/vyo3ocjo0n2a4x3ext1ooq58z)
-
 ### Connect with me:
 
-[<img align="left" alt="Alfredo Romero | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />][medium]
-[<img align="left" alt="Alfredo Romero | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Alfredo Romero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Alfredo Romero | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Alfredo Romero | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />](https://medium.com/@KurodaSensei)
+[<img align="left" alt="Alfredo Romero | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/KurodaSensei)
+[<img align="left" alt="Alfredo Romero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alfredo-j-romero-m-59539610a/)
+[<img align="left" alt="Alfredo Romero | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kurodasensei/?hl=es-la)
 
 <br />
 
