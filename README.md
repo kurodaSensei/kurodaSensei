@@ -67,6 +67,8 @@ Currently, I'm living in Bogota and I'm open to collaborate in any project.
 
 <br />
 <br />
+
 ###:zap: Github Stats
+
 [![Alfredo's github stats](https://github-readme-stats.vercel.app/api?username=kurodaSensei&count_private=true&show_icons=true&theme=synthwave)](https://github.com/kurodaSensei)
 
