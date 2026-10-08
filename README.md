@@ -1,27 +1,51 @@
-# 💫 About Me:
-Hi! I'm Alfredo<br>(kurodaSensei is my programmer's nickname xD)<br>
-<br>I'm an all-around technology enthusiast web developer interested in leading teams and creating web applications that help other people grow or simply make an aspect of their lives easier.
-<br>🛒 5+ Years as a Shopify and WordPress Specialist and CRO Advisor  
-<br>🔭 I’m currently working on E-commerce ecosystems!
-<br>🌱 I’m currently learning ReactJS, NodeJS, and Python
-<br>👯 I’m looking to collaborate with other content creators
-<br> 📝 Sometimes I write articles on ![Medium](https://medium.com/@KurodaSensei)
-<br>⚡ Fun fact: Karate, Video Games and Anime
+# Alfredo Romero
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KurodaSensei&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KurodaSensei&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KurodaSensei&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**I mark the line before I cut.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KurodaSensei&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+Senior fullstack developer, ten years in: e-commerce, web apps and custom sites with Nuxt/Vue, React, TypeScript, Shopify and WordPress. By day I lead a web development team at an agency serving US DTC brands. The rest of the time I build my own things, and the tooling to build them well.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## Now building: Sumitsubo 墨壺
 
----
-[![](https://visitcount.itsvg.in/api?id=KurodaSensei&icon=0&color=1)](https://visitcount.itsvg.in)
+An open-source framework for Claude Code, for web design and development. Direction first, then the work.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```bash
+npx sumitsubo
+```
+
+- **Design direction before pixels.** A brief with anti-references, three directions that actually differ, and a `DESIGN.md` with script-verified contrast. A ledger across projects so no two clients get the same fonts, palette or layout.
+- **Process proportional to the request.** Small changes go straight in; big features are planned in one file, in ~400-line slices. If the plan outgrows what you asked, it stops and asks.
+- **Reviewers with fresh eyes.** Review agents see only the diff and the test results, never the author's reasoning.
+- **Each model where it earns its cost.** Haiku searches, Sonnet builds, Opus only steps in for architecture and security.
+- **Accessibility (WCAG 2.2 AA) and Core Web Vitals as acceptance criteria**, not extras.
+- **Stack packs** for Nuxt, Next.js, Shopify and WordPress (native block themes).
+
+6 plugins · 10 commands · 34 skills · MIT · [repo](https://github.com/kurodaSensei/sumitsubo) · [docs](https://sumitsubo-docs.vercel.app) · [roadmap](https://github.com/kurodaSensei/sumitsubo/issues)
+
+## Things I've built
+
+| Project | What it is | Stack |
+|---|---|---|
+| [14 Ceros](https://14ceros.vercel.app) | Scroll-storytelling infographic on Venezuela's three currency redenominations, with a working calculator | Nuxt 3 · GSAP · D3 |
+| [Sorbo](https://sorbo.app) | A coffee journal PWA under the @kurodacafe brand. No likes, no rankings | Nuxt 3 · Firebase |
+| [Mushin](https://getmushin.com) | Focus timer where time isn't counted, it's felt: an animated aura instead of a countdown | React · Tauri · Canvas |
+| [Sumitsubo docs](https://sumitsubo-docs.vercel.app) | 88 prerendered routes, fully bilingual, Lighthouse 100/100/100/100 — built with the framework itself | Nuxt 4 static |
+| [alfredoromero.dev](https://alfredoromero.dev) | Portfolio with typed case studies, JSON-LD and `llms.txt` from day one | Nuxt 4 · Tailwind v4 |
+
+Client work (WordPress block themes, Shopify OS 2.0 and headless stores) lives in private repos; case studies are on the portfolio.
+
+## How I work
+
+- WordPress as **native block themes** (`theme.json` as the single design system). No page builders.
+- Everything runs on a free tier until it has a reason not to: derive-on-read over cron, no Cloud Functions in an MVP.
+- Performance and accessibility are the definition of done, measured, not promised.
+- Design that looks like its own thing. If it reads as a template, it goes back.
+
+## Stack
+
+Nuxt / Vue · React / Next.js · TypeScript · Tailwind · Firebase (Auth, Firestore) · Shopify (OS 2.0, Hydrogen) · WordPress (block themes, FSE) · Tauri · GSAP · D3 · PHP / Laravel · Vercel
+
+## Elsewhere
+
+[alfredoromero.dev](https://alfredoromero.dev) · [LinkedIn](https://www.linkedin.com/in/alfredo-romero-m) · Coffee at [@kurodacafe](https://www.instagram.com/kurodacafe)
+
+Karate, specialty coffee, and the occasional kata-history rabbit hole.
