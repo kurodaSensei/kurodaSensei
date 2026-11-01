@@ -25,6 +25,7 @@ npx sumitsubo
 
 | Project | What it is | Stack |
 |---|---|---|
+| [Explora EV](https://explora-ev.vercel.app) | Round-trip range planner for electric cars in Colombia: how far you can go and whether you make it back, with elevation at the core of the energy model | Nuxt 4 · Firebase · Leaflet |
 | [Siteferry](https://github.com/kurodaSensei/siteferry) | WordPress migration plugin: serialized-safe search-replace, signed pull/push of databases and files, full-site packages and undo | PHP 8.1 · MySQL · WP-CLI |
 | [14 Ceros](https://14ceros.vercel.app) | Scroll-storytelling infographic on Venezuela's three currency redenominations, with a working calculator | Nuxt 3 · GSAP · D3 |
 | [Sorbo](https://sorbo.app) | A coffee journal PWA under the @kurodacafe brand. No likes, no rankings | Nuxt 3 · Firebase |
